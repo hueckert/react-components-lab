@@ -1,15 +1,18 @@
 section {
     display: flex;
-  }
-  
-  section .weather {
+    text-align: center;
+}
+
+section .weather {
+    display: block;
     border: 1px solid #ccc;
     flex: 1;
     padding: 10px;
     text-align: center;
-  }
-  
-  .weather span {
+}
+
+.weather span {
     font-weight: bold;
-  }
-  
+}
+
+
